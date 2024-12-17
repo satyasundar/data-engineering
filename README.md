@@ -5,4 +5,4 @@ This repo is the master repo for all the data engineering projects. It will also
 https://github.com/satyasundar/databricks-academy
       
 ## 2. Notes on Data Engineering
-      https://github.com/satyasundar/DataEngineeringNotes
+https://github.com/satyasundar/DataEngineeringNotes
